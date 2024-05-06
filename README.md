@@ -1,5 +1,8 @@
 # ChatGPT Writer Take-Home Coding Assignment
 
+[Link to my file](https://drive.google.com/file/d/16qJF1MGNx_gg9KKxeLqDuRnRJyobz42s/view?usp=sharing)
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
 
 ## Getting Started
