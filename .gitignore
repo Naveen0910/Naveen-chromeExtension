@@ -1,0 +1,26 @@
+# Dependency directories
+/node_modules
+
+# Environment variables file
+.env
+
+# Build output
+/build
+/dist
+
+# Cache directories
+/.cache
+/.eslintcache
+
+# IDE and editor files
+/.idea
+/.vscode
+
+# Compiled output (e.g., transpiled TypeScript)
+/*.js
+/*.jsx
+/*.ts
+/*.tsx
+
+# Miscellaneous
+.DS_Store
